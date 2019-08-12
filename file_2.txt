@@ -1,2 +1,4 @@
 Line 1 
 Line 2
+
+Inserted line of text after we deleted the local repo and then cloned it.
